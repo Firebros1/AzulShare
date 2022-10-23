@@ -1,0 +1,32 @@
+* {
+  overflow: auto;
+}
+
+.main-header {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 150px;
+  padding-top: 80px;
+}
+
+.about-text {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 150px;
+  display: inline-block;
+}
+
+.logo {
+  position: fixed;
+  top: 10px;
+  right: 30px;
+}
+
+.get-started {
+  position: fixed;
+  border-radius: 5px;
+  top: 260px;
+  left: 260px;
+  font-size: 20px;
+  background-color: tan;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
