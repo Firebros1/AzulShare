@@ -48,7 +48,7 @@
   width: 4rem;
   border-radius: 50%;
   position: fixed;
-  top: 5vh;
+  top: 3vh;
   right: 2vw;
   z-index: 2000;
   box-shadow: 0 1rem 3rem black;
@@ -185,12 +185,19 @@
 }
 
 /*assets page styling*/
+.assets-header {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  left: 660px;
+}
+
 .square {
   background-color: black;
   border-radius: 25px;
-  border: 2px solid white;
+  border: 2px solid tan;
   padding: 20px;
   position: fixed;
+  top: 100px;
   width: 200px;
   height: 150px;
 }
@@ -198,10 +205,75 @@
 .square2 {
   background-color: black;
   border-radius: 25px;
-  border: 2px solid white;
+  border: 2px solid tan;
   padding: 20px;
   position: fixed;
+  top: 100px;
   left: 275px;
   width: 200px;
   height: 150px;
+}
+
+.square3 {
+  background-color: black;
+  border-radius: 25px;
+  border: 2px solid tan;
+  padding: 20px;
+  position: fixed;
+  top: 100px;
+  left: 545px;
+  width: 200px;
+  height: 150px;
+}
+
+.square4 {
+  background-color: black;
+  border-radius: 25px;
+  border: 2px solid tan;
+  padding: 20px;
+  position: fixed;
+  top: 100px;
+  left: 815px;
+  width: 200px;
+  height: 150px;
+}
+
+.square5 {
+  background-color: black;
+  border-radius: 25px;
+  border: 2px solid tan;
+  padding: 20px;
+  position: fixed;
+  top: 100px;
+  left: 1085px;
+  width: 200px;
+  height: 150px;
+}
+
+.square-title {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 90px;
+  left: 61px;
+}
+
+.square-text {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square-button {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  background-color: tan;
+  border-radius: 5px;
+  font-size: 15px;
+  top: 245px;
+  left: 87px;
+}
+
+.square-author {
+  font-family: Arial, Helvetica, sans-serif;
+  color: tan;
+  position: fixed;
+  top: 255px;
 }
