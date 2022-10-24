@@ -277,3 +277,115 @@
   position: fixed;
   top: 255px;
 }
+
+.square-title2 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 90px;
+  left: 325px;
+}
+
+.square-text2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square-button2 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  background-color: tan;
+  border-radius: 5px;
+  font-size: 15px;
+  top: 245px;
+  left: 354px;
+}
+
+.square-author2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: tan;
+  position: fixed;
+  top: 255px;
+}
+/*seperator*/
+.square-title3 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 90px;
+  left: 598px;
+}
+
+.square-text3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square-button3 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  background-color: tan;
+  border-radius: 5px;
+  font-size: 15px;
+  top: 245px;
+  left: 625px;
+}
+
+.square-author3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: tan;
+  position: fixed;
+  top: 255px;
+}
+/*Seperator*/
+.square-title4 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 90px;
+  left: 869px;
+}
+
+.square-text4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square-button4 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  background-color: tan;
+  border-radius: 5px;
+  font-size: 15px;
+  top: 245px;
+  left: 895px;
+}
+
+.square-author4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: tan;
+  position: fixed;
+  top: 255px;
+}
+/*Seperator*/
+.square-title5 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 90px;
+  left: 1140px;
+}
+
+.square-text5 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square-button5 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  background-color: tan;
+  border-radius: 5px;
+  font-size: 15px;
+  top: 245px;
+  left: 1165px;
+}
+
+.square-author5 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: tan;
+  position: fixed;
+  top: 255px;
+}
