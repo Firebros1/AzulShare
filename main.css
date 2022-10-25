@@ -188,7 +188,7 @@
 .assets-header {
   font-family: Arial, Helvetica, sans-serif;
   position: fixed;
-  left: 660px;
+  left: 610px;
 }
 
 .square {
@@ -388,4 +388,58 @@
   color: tan;
   position: fixed;
   top: 255px;
+}
+
+/*Stlying for create.html*/
+.create-header {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 5px;
+  left: 630px;
+}
+
+.create-description {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 50px;
+  left: 250px;
+}
+
+#check {
+  position: fixed;
+  top: 150px;
+  left: 350px;
+}
+
+.create-check-text {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 195px;
+  left: 300px;
+}
+
+#no {
+  position: fixed;
+  top: 150px;
+  left: 650px;
+}
+
+.create-no-text {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 197px;
+  left: 545px;
+}
+
+#check2 {
+  position: fixed;
+  top: 150px;
+  left: 950px;
+}
+
+.create-check2-text {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 195px;
+  left: 870px;
 }
