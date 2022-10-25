@@ -9,13 +9,16 @@
 
 .main-header {
   font-family: Arial, Helvetica, sans-serif;
-  padding-left: 150px;
-  padding-top: 80px;
+  position: fixed;
+  left: 150px;
+  top: 160px;
 }
 
 .about-text {
   font-family: Arial, Helvetica, sans-serif;
-  padding-left: 150px;
+  position: fixed;
+  left: 150px;
+  top: 225px;
   display: inline-block;
 }
 
@@ -28,8 +31,8 @@
 .get-started {
   position: fixed;
   border-radius: 5px;
-  top: 255px;
-  left: 265px;
+  top: 305px;
+  left: 260px;
   font-size: 20px;
   background-color: tan;
   color: black;
