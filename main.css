@@ -443,3 +443,28 @@
   top: 195px;
   left: 870px;
 }
+
+.create-footer {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 405px;
+  left: 520px;
+}
+
+.create-apply {
+  position: fixed;
+  border-radius: 5px;
+  top: 460px;
+  left: 630px;
+  font-size: 20px;
+  background-color: tan;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.linkvertise-footer {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 630px;
+  left: 550px;
+}
