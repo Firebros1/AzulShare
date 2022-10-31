@@ -485,3 +485,84 @@
   left: 65px;
   overflow: auto;
 }
+
+#about-user {
+  position: fixed;
+  top: 180px;
+  left: 250px;
+  color: tan;
+}
+
+.about-user-text {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 320px;
+  height: 300px;
+  position: fixed;
+  top: 240px;
+  left: 130px;
+}
+
+.learn-more {
+  position: fixed;
+  border-radius: 5px;
+  top: 350px;
+  left: 220px;
+  font-size: 20px;
+  background-color: tan;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#about-users {
+  position: fixed;
+  top: 180px;
+  left: 625px;
+  color: tan;
+}
+
+.about-privacy {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 320px;
+  height: 300px;
+  position: fixed;
+  top: 240px;
+  left: 520px;
+}
+
+.about-learn-more {
+  position: fixed;
+  border-radius: 5px;
+  top: 350px;
+  left: 610px;
+  font-size: 20px;
+  background-color: tan;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#about-shield {
+  position: fixed;
+  top: 180px;
+  left: 1050px;
+  color: tan;
+}
+
+.about-security {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 320px;
+  height: 300px;
+  position: fixed;
+  top: 240px;
+  left: 930px;
+}
+
+.about-learn-security {
+  position: fixed;
+  border-radius: 5px;
+  top: 350px;
+  left: 1020px;
+  font-size: 20px;
+  background-color: tan;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
